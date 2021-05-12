@@ -1,4 +1,4 @@
-# Product-review-classifier
+# Product-review-classifier-CS772-DL4NLP
 Rate product reviews from 1 to 5
 
 # Steps to run the program:
@@ -24,7 +24,7 @@ For training, one can run the colab file
 
 Running the <b>auto.py</b> file will popup a UI and user can use/change the parameters as they wish
 
-### Transformers
+### Transformers with Lime Explainability
 
 Running kivy_main.py will start a GUI in which user can input sentences for review ratings  
 
