@@ -29,3 +29,7 @@ Running the <b>auto.py</b> file will popup a UI and user can use/change the para
 Running kivy_main.py will start a GUI in which user can input sentences for review ratings  
 
 For training, one can run the colab file or ```python sequence_classifiction.py```
+
+### Lime example
+![lime_analysis_plot](https://user-images.githubusercontent.com/45922320/118012760-06b1f600-b36f-11eb-9c01-ded82c49b07c.png)
+
