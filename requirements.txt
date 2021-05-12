@@ -1,0 +1,12 @@
+pandas==1.1.5
+numpy==1.19.5
+scipy==1.4.1
+nltk==3.5
+imblearn
+spacy==3.0.5
+matplotlib==3.3.4
+seaborn==0.11.1
+alive-progress
+pyspellchecker
+lime
+kivy
